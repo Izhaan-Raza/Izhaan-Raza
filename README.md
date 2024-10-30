@@ -1,6 +1,7 @@
 # 💫 About Me:
 Currently working on: Rover for Autonomous Detection and Analysis of Radiants
 
+[![An image of @izhaanraza's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/izhaanraza)](https://holopin.io/@izhaanraza)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/izhaann7) 

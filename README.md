@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Nothing<br>👯 IoT<br>🌱 C++, CUDA, PyTorch<br>⚡ (arduino{c++} was first language)
+🔭 Nothing<br>👯 IoT<br>🌱 Java, DevOps, fastApi<br>⚡ (arduino{c++} was first language)
 
 [![An image of @izhaanraza's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/izhaanraza)](https://holopin.io/@izhaanraza)
 
